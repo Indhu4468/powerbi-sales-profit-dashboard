@@ -14,19 +14,9 @@ The dashboard helps stakeholders understand business performance and make data-d
 
 ## 🛠️ Tools & Skills Used
 - Power BI Desktop  
-- Data Modeling (Fact & Dimension Tables)  
-- DAX Measures  
+- Data Modeling (Fact & Dimension Tables)   
 - Data Cleaning & Transformation  
-- Interactive Visualizations  
-- Row Level Security (RLS) – Concept  
-
-## 📁 Files in This Repository
-- `Sales_Profit_Dashboard.pbix` – Power BI dashboard file  
-- `dashboard.png` – Dashboard preview image  
-- `INDHU SALES & PROFIT DASHBOARD.pdf` – Dashboard export  
-
-## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+- Interactive Visualizations    
 
 ## 👩‍💻 Author
 **Indhumathi S**  
